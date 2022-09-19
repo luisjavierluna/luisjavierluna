@@ -10,6 +10,16 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 - [Portforlio: Basic Angular based resume](https://github.com/luisjavierluna/Portfolio)
 - [Movies Site: Information related to movies in theaters and upcoming releases](https://github.com/luisjavierluna/Movies)
 
+## Skills
+
+- **ORM's for application and database interaction**: Entity Framework (Migrations), Dapper.
+- **Creation and consumption of API's REST**: HTTP Protocol, Postman, Swagger
+- **User and security system**: Identity, Authentication, Authorization, Json Web Token
+- **Common ASP.NET Core tools/patterns/libraries**: C#, MVC, LINQ, xUnit, Dependency Injection, AutoMapper.
+- **Relational databases**: SQL Server, queries, INNER JOINS, store procedures, triggers, constraints, foreign keys.
+- **Basic frontend skills**: Angular (Material, Modules, Leafleat, Markdown), Razor, TypeScript, HTML, CSS, Bootstrap, JQuery.
+- **Support Tools and Methodologies**: Git/Github, debugger, Azure, Visual Studio/Visual Studio Code. 
+
 ## Stack and Tools
 
 ### Programming Languages
@@ -37,4 +47,4 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 
 ## Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisjavierluna"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisjavierluna&theme=tokyonight"/>
