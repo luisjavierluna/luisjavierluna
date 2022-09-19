@@ -14,15 +14,26 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 
 ### Programming Languages
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+[![CSharp Badge](https://img.shields.io/badge/-CSharp-68217a?style=for-the-badge&labelColor=white&logo=CSharp&logoColor=68217a)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&labelColor=white&logo=HTML5&logoColor=#e44d26)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&labelColor=white&logo=CSS3&logoColor=1572b6)](#)
 
 ### Frameworks and Libraries
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+[![.NET Badge](https://img.shields.io/badge/-.NET-623697?style=for-the-badge&labelColor=white&logo=.NET&logoColor=623697)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-dd1b16?style=for-the-badge&labelColor=white&logo=Angular&logoColor=dd1b16)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7911f7?style=for-the-badge&labelColor=white&logo=Bootstrap&logoColor=7911f7)](#)
+[![JQuery Badge](https://img.shields.io/badge/-JQuery-0868ac?style=for-the-badge&labelColor=white&logo=jQuery&logoColor=0868ac)](#)
 
 ### Tools
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+[![SQL Server Badge](https://img.shields.io/badge/-SQLServer-d12625?style=for-the-badge&labelColor=white&logo=MicrosoftSQLServer&logoColor=d12625)](#)
+[![Azure Badge](https://img.shields.io/badge/-Azure-0b5dab?style=for-the-badge&labelColor=white&logo=MicrosoftAzure&logoColor=0b5dab)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-e94e31?style=for-the-badge&labelColor=white&logo=Git&logoColor=e94e31)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-171a1f?style=for-the-badge&labelColor=white&logo=GitHub&logoColor=171a1f)](#)
+[![VisualStudio Badge](https://img.shields.io/badge/-VisualStudio-875ab9?style=for-the-badge&labelColor=white&logo=VisualStudio&logoColor=875ab9)](#)
+[![VisualStudio Code Badge](https://img.shields.io/badge/-VisualStudioCode-2c8dcf?style=for-the-badge&labelColor=white&logo=VisualStudioCode&logoColor=2c8dcf)](#)
 
 ## Statistics
 
