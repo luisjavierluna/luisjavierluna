@@ -6,7 +6,9 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 
 ## Projects
 
-[Expense Control] (https://github.com/luisjavierluna/ExpenseControl_ASP.NET).
+- [Expense Control: Take better control of your finances by tracking unnecessary expenses](https://github.com/luisjavierluna/ExpenseControl_ASP.NET)
+- [Portforlio: Basic Angular based resume](https://github.com/luisjavierluna/Portfolio)
+- [Movies Site: Information related to movies in theaters and upcoming releases](https://github.com/luisjavierluna/Movies)
 
 ## Stack and Tools
 
