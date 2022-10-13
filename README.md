@@ -7,7 +7,7 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 ## Projects
 
 - [Expense Control: App to track income and expenses made with ASP.NET](https://github.com/luisjavierluna/ExpenseControl_ASP.NET)
-- [Portforlio: Basic resume made mostly with Angular](https://github.com/luisjavierluna/Portfolio)
+- [Portfolio: Basic resume made mostly with Angular](https://github.com/luisjavierluna/Portfolio)
 - [Movie Theater Website: Website showing current and upcoming releases made with ASP.NET and angular](https://github.com/luisjavierluna/Movies)
 - [Computer e-commerce: Computer and technology store website made with ASP.NET and Angular](https://github.com/luisjavierluna/Mall)
 
