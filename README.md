@@ -40,7 +40,6 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 ### Tools
 
 [![SQL Server Badge](https://img.shields.io/badge/-SQLServer-d12625?style=for-the-badge&labelColor=white&logo=MicrosoftSQLServer&logoColor=d12625)](#)
-[![Azure Badge](https://img.shields.io/badge/-Azure-0b5dab?style=for-the-badge&labelColor=white&logo=MicrosoftAzure&logoColor=0b5dab)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-e94e31?style=for-the-badge&labelColor=white&logo=Git&logoColor=e94e31)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-171a1f?style=for-the-badge&labelColor=white&logo=GitHub&logoColor=171a1f)](#)
 [![VisualStudio Badge](https://img.shields.io/badge/-VisualStudio-875ab9?style=for-the-badge&labelColor=white&logo=VisualStudio&logoColor=875ab9)](#)
