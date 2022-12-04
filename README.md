@@ -1,6 +1,8 @@
-# Hey there! Welcome to my Github
+# Hi, my name is Luis Luna
 
-I'm Luis, a Backend Developer focused in **.NET** technologies, among which are **C#, ASP.NET, Entity Framework, MVC pattern, Identity, LINQ, SQL Server, Dapper, Angular**, among others, and with which I develop my own projects such as **Web Applications, API's, Databases, User and Security Systems**, etc.
+![Front Page Image](https://media-exp1.licdn.com/dms/image/D4D16AQFAzg1h56Rd_g/profile-displaybackgroundimage-shrink_350_1400/0/1664988216216?e=1675900800&v=beta&t=l8-vw1VDiJevgsPbI57fSntT72P3Kna_82BYIOvcoRM)
+
+I'm a Backend Developer focused in **.NET** technologies, among which are **C#, ASP.NET, Entity Framework, MVC pattern, Identity, LINQ, SQL Server, Dapper, Angular**, etc, and with which I develop my own projects such as **Web Applications, API's, Databases, User and Security Systems**, etc.
 
 I always seek to constantly improve and think beyond to propose new ideas, although I am aware that, to create innovative things, you first have to know what has been done previously. Besides, I am always updating my knowledge and learning new things, as I consider that in the ever-changing technology industry you can be left behind if you get a little distracted.
 
@@ -13,8 +15,8 @@ I always seek to constantly improve and think beyond to propose new ideas, altho
 
 ## Skills
 
-- **ORM's for application and database interaction**: Entity Framework (Migrations), Dapper.
 - **Creation and consumption of API's REST**: HTTP Protocol, Postman, Swagger
+- **ORM's for application and database interaction**: Entity Framework (Migrations), Dapper.
 - **User and security system**: Identity, Authentication, Authorization, Json Web Token
 - **Common ASP.NET Core tools/patterns/libraries**: C#, MVC, LINQ, xUnit, Dependency Injection, AutoMapper.
 - **Relational databases**: SQL Server, queries, INNER JOINS, store procedures, triggers, constraints, foreign keys.
