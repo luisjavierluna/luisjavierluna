@@ -1,6 +1,6 @@
 # Hi, my name is Luis Luna
 
-![Front Page Image](https://media.licdn.com/dms/image/D4D16AQFAzg1h56Rd_g/profile-displaybackgroundimage-shrink_350_1400/0/1664988216216?e=1697673600&v=beta&t=HC2SGZNSisucNg4p_Wal73bH9CAbnynF9VCFZLaNJQQ)
+![Front Page Image](https://github.com/luisjavierluna/luisjavierluna/blob/master/Front_Page_Image.jpeg)
 
 I'm a Backend Developer focused in **.NET** technologies, among which are **C#, ASP.NET, Entity Framework, MVC pattern, Identity, LINQ, SQL Server, Dapper, Angular**, etc, and with which I develop my own projects such as **Web Applications, API's, Databases, User and Security Systems**, etc.
 
